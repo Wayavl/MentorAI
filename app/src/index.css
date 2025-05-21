@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme { 
+  --color-primary-light: #14B8A6; /*Verde Teal*/
+  --color-primary-dark: #14B8A6; /*Verde Teal*/
+
+  --color-secundary-light: #6EE7B7; /*Verde Menta*/
+  --color-secundary-dark: #6EE7B7; /*Verde Menta*/
+
+  --color-primary-text-light:#374151; /*Gris antracita*/
+  --color-primary-text-dark: #F5F5F5; /*Blanco Suave*/
+
+  --color-secundary-text-light:#6B7280; /*Gris Neutro*/
+  --color-secundary-text-dark: #9CA3AF; /*Gris Claro*/
+
+  --color-accent-light: #FCD34D; /*Amarillo Claro*/
+  --color-accent-dark: #FCD34D; /*Amarillo Claro*/
+
+  --color-background-light: #F9FAFB; /*Blanco Hueso*/
+  --color-background-dark: #000000; /*Negro puro*/
+
+  --color-panels-light: #E5E7EB; /*Gris claro*/
+  --color-panels-dark: #111111; /*Gris Muy Oscuro*/
+}
+@layer base { 
+  section {
+    @apply flex flex-col min-h-[60vh]
+  }
+}
