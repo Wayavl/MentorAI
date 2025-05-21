@@ -27,3 +27,8 @@
     @apply flex flex-col min-h-[60vh]
   }
 }
+@layer components {
+  .modern-button {
+    
+  }
+}
