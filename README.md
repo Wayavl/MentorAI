@@ -8,4 +8,4 @@ Este prototipo se esta haciendo durante el 05/05/2025 hasta el 29/05/2025 y no e
 - Tailwind css.
 
 ## ¿Quien ha escrito el código? 
-- Javier García Villegas | Programación | Parte del prototipado.
+- [https://github.com/Wayavl/](Javier García Villegas) | Programación | Parte del prototipado.
